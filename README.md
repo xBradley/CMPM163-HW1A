@@ -6,13 +6,10 @@ https://xbradley.github.io/CMPM163-HW1A/
 ## Screenshots
 
 ![Lion](Screenshots/texturedSpecularShader.png)
-fadsfsdafsafa
-
-
+Textured Lion Statue with Tinted Specular Lighting
 
 ![Wolf](Screenshots/rimShader.png)
-
-
-
+Rim Shading on Wolf Mask
 
 ![Sphere](Screenshots/toonShader.png)
+Toon Phong Lighting on a moving Sphere and Point Light
