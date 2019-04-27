@@ -7,6 +7,6 @@ https://xbradley.github.io/CMPM163-HW1A/
 
 ![Lion](Screenshots/texturedSpecularShader.png)
 
-![Wolf Mask](Screenshots/rimShader.png)
+![Wolf](Screenshots/rimShader.png)
 
 ![Sphere](Screenshots/toonShader.png)
