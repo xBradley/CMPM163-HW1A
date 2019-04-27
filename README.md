@@ -12,4 +12,4 @@ Textured Lion Statue with Tinted Specular Lighting
 Rim Shading on Wolf Mask
 
 ![Sphere](Screenshots/toonShader.png)
-Toon Phong Lighting on a moving Sphere and Point Light
+Toon Phong Lighting on a Sphere
