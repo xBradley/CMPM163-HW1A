@@ -5,4 +5,4 @@ https://xbradley.github.io/CMPM163-HW1A/
 
 ## Screenshots
 
-![Lion](Screenshots/Lion.png)
+![Lion](Screenshots/HW1A - Lion.png)
