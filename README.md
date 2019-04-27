@@ -6,7 +6,13 @@ https://xbradley.github.io/CMPM163-HW1A/
 ## Screenshots
 
 ![Lion](Screenshots/texturedSpecularShader.png)
+fadsfsdafsafa
+
+
 
 ![Wolf](Screenshots/rimShader.png)
+
+
+
 
 ![Sphere](Screenshots/toonShader.png)
